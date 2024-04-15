@@ -15,7 +15,7 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
     display: grid;
-    grid-template: repeat(4, auto) / auto 1fr;
+    grid-template: repeat(12, auto) / auto 1fr;
     grid-template-areas:
         "head head"
         "navi navi"
